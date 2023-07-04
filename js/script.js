@@ -1,4 +1,5 @@
 //STEP 1
+
 //let someMonth;
 //function theMonth();
 //let currentMonth;
@@ -14,59 +15,117 @@
 
 //STEP 3
 
+// let anExpression = 3 * (4 / 5) + 6;
+// let anExpression = 4 * (5 / 6) + 7;
 
-// BASIC IF STATEMENT
-//let num = Number (prompt(`Enter a number between 1 and 10`))
-//if (num === 5) {
-//console.log(`You guessed the right number.`)
-//} 
+// STEP 4
 
+// let firstName;
+// let lastName;
+// let address;
+// let city;
+// let state;
+// let zipCode;
+// let yourAge;
+// let referral;
+// let source;
+// let mayWeContactYou;
 
-// BASIC IF/ELSE STATEMENT
-   // let num = Number(prompt(`Enter a number between 1 and 10`))
-   // if (num === 5) {
-   //     console.log (`You guessed the right number.`)
-   // } else { 
-   //     console.log(`You guessed the wrong number.`)
-  //  }
+// STEP 5
 
-// SINGLE STATEMENT SUITE
-//let num = Number(prompt(`Enter a number between 1 and 10`));
-//(num === 5) ? console.log(`Correct!`) : console.log(`Wrong!`);
+// let firstName;
+// let isStudent;
+// firstName = `Jess`;
+// isStudent = true;
 
+// or:
+// let firstName = `Jess`;
+// let isStudent = true;
 
+// or:
+// let firstName = `Jess`, isStudent = true;
 
-// IF ELSE/IF STATEMENT
-//alert(`Let\`s play rock, paper, scissors.`)
-//let choice = prompt(`Enter your choice: rock, paper, or scissors.`)
-// if (choice === 'rock') {
-//     console.log(`You chose rock!`)
-// } else if (choice === 'paper') {
-//     console.log(`You chose paper!`)
-// } else if (choice === `scissors`) { 
-//     console.log(`You chose scissors!`)
-// } else {
-//     console.log(`You didn\`t choose a valid option.`) 
-// }
+// let lastName;
+// let isStudent;
+// firstName = `Rude`;
+// isStudent = true;
 
-// SWITCH STATEMENT
-// alert(`Let\`s play rock, paper, scissors.`)
-// let choice = prompt(`Enter your choice: rock, paper, or scissors.`)
-// switch (choice) {
-//     case `rock`:
-//         console.log(`You chose rock!`)
-//         break
-//     case 'paper':
-//         console.log === (`You chose paper!`)
-//         break
-//     case 'scissors':
-//         console.log(`You chose scissors!`)
-//         break
+// or:
+// let lastName = `Rude`;
+// let isStudent = true;
 
-//     default: 
-//         console.log(`You didn\`t choose a valid option.`)
+// or:
+// let lastName = 'Jess', isStudent = true;
 
-// }
+// let age;
+// let isAdult;
+// age = 'old';
+// isAdult = true;
 
+// or:
+// let age = `old`;
+// let isAdult = true;
 
+// or:
+// let age = `old`, isAdult = true;
 
+// STEP 6
+
+// let yearsDesigning = 'eleven';
+// alert('Jess has been designing for ' + yearsDesigning + ' years.');
+
+// STEP 7
+
+// let x = 200;
+// let y = 200;
+// alert(x == y);
+
+// STEP 8
+
+// let someString = 'Who once said, "Only two things are infinite, the universe and human stupidity, and I\'m not sure about the former."';
+// window.console.log(someString);
+
+// STEP 9
+
+// let x = 200;
+// let y = null;
+// x = null;
+// alert(x);
+// alert(y);
+
+// let x;
+// alert(x);
+
+// STEP 10
+
+// typeof false // returns 'boolean'
+// typeof 2 // returns 'number'
+// typeof 'Hello' // returns 'string'
+// typeof object// returns object
+// typeof underfined// undefined
+
+// STEP 11
+
+// let x = `Jess`;
+// let y = `Rude`;
+// let z =  `JavaScript Class`;
+// alert(`Hello ${x} ${y}, welcome to the ${z}!`);
+
+// STEP 12
+
+// let name = `Jess Rude`;
+// let x = `JavaScript Class`;
+// alert(`Hello ${name}, welcome to the ${x}!`);
+
+// // STEP 13
+// let name = `Jess Rude`;
+// let course = `JavaScript Class`;
+// alert(`Hello ${name}, welcome to the ${course}!`);
+
+// STEP 14
+
+// let name = `Jess Rude`;
+// let course = `JavaScript Class`;
+
+// alert(`Hello ${name}.
+// Welcome to the ${course}!`);
