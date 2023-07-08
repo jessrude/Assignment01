@@ -129,3 +129,42 @@
 
 // alert(`Hello ${name}.
 // Welcome to the ${course}!`);
+
+// STEP 15
+//let name = prompt(`What is your name?`)
+//console.log(`Welcome to the course ${name}!`)
+
+// STEP 16
+
+//let course = `What class are you taking?`;
+//let name = `Jess Rude`;
+//alert(`Hello ${name}, welcome to the ${course}!`);
+
+
+// STEP 17
+//let x = 10;
+//let y = 20;
+//console.log(x + y);
+
+// STEP 18
+//let x = 20;
+// console.log(x + 20);
+
+// STEP 19
+//let x = 20;
+//console.log(x * 5);
+
+// STEP 20
+//let x = 20 % 3
+//console.log(x/1);
+
+// STEP 21
+//let x = 100;
+//let y = 100;
+//alert(x == y);
+
+// STEP 22
+//let x = 8-6;
+//let y = 7+4;
+//alert(x == y);
+
